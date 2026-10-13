@@ -42,8 +42,8 @@ const swaggerOptions = {
     },
     servers: [
       {
-        url: "http://localhost:5000",
-        description: "Local development server",
+        url: "https://placementmanagementsystem-backend.onrender.com",
+description: "Production server",
       },
     ],
   },
